@@ -34,8 +34,8 @@ Dependencies :
 - Python 17.0.1
 
 ## How to run :
-javac ProjetJava/Jeux.java
-java ProjetJava/Jeux
+javac ProjetJava/Jeux.java <br>
+java ProjetJava/Jeux 
 
 # Known Issues
 
