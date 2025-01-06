@@ -1,2 +1,0 @@
-# Ant colony simulation
- 

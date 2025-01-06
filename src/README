@@ -1,0 +1,8 @@
+  javac -d classes ProjetJava/Jeux.java
+java -cp classes ProjetJava/Jeux
+
+
+
+Or 
+ javac ProjetJava/Jeux.java
+Java ProjetJava/Jeux
