@@ -1,7 +1,7 @@
 # Ant colony simulation
-Ant colony simulation in java langage !
+Ant colony simulation in java language !
 
-
+<img width="1012" alt="Capture d’écran 2025-01-06 à 18 16 42" src="https://github.com/user-attachments/assets/277c62ee-4054-42d4-afce-9c8ec806ad58" />
 
 # Project Overview
 
