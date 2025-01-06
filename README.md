@@ -23,3 +23,26 @@ Dynamic Terrain: The terrain is divided into small squares that can contain vari
 Nest Prioritization: If food is insufficient, priority is given to the queen, followed by workers, and then warriors.
 Pheromone System: Workers use pheromones to return to the nest after finding resources. They also collaborate if a resource is too large to carry alone.
 Threats: Different types of animals represent threats, each with unique behavior (movement, speed, etc.).
+
+
+# Getting Started 
+
+## Requirements
+
+Dependencies : 
+
+- Python 3.x
+- Pygame library (pip install pygame)
+
+## How to run :
+javac ProjetJava/Jeux.java
+java ProjetJava/Jeux
+
+# Known Issues
+
+The game window size is fixed.
+
+# License
+
+This game is open-source and available under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
+
