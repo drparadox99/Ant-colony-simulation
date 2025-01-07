@@ -11,7 +11,7 @@ import java.awt.Rectangle;
     
 /** Cette class représente la classe qui lance la simulation
 */
-public class Jeux {
+public class Game {
 
     public static void main(String[] args) { 
 	    GUI_for_Displayable fenetre = new GUI_for_Displayable("Ant Colony Simulation",900,600,Color.WHITE);       	     
