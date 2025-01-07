@@ -34,8 +34,8 @@ Dependencies :
 - Java 17.0.1
 
 ## How to run :
-- javac ProjetJava/Jeux.java <br>
-- java ProjetJava/Jeux 
+- javac ProjetJava/Game.java <br>
+- java ProjetJava/Game 
 
 # Known Issues
 
