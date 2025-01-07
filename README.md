@@ -31,7 +31,7 @@ Threats: Different types of animals represent threats, each with unique behavior
 
 Dependencies : 
 
-- Python 17.0.1
+- Java 17.0.1
 
 ## How to run :
 - javac ProjetJava/Jeux.java <br>
